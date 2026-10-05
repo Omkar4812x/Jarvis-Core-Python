@@ -26,24 +26,24 @@
 
 ## 🚀 Getting Started
 
-1. **Clone the repository**:
+1. **Clone the repository** :
    ```bash
    git clone https://github.com/Omkar4812x/Jarvis-Core-Python.git
    cd Jarvis-Core-Python
    ```
 
-2. **Install dependencies**:
+2. **Install dependencies** :
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Configure Environment Variables**:
-   Create a `.env` file in the root directory:
+3. **Configure Environment Variables** :
+   Create a `.env` file in the root directory :
    ```env
    OPENAI_API_KEY=your_openai_api_key_here
    ```
 
-4. **Run Jarvis Core Engine**:
+4. **Run Jarvis Core Engine** :
    ```bash
    python main.py
    ```
